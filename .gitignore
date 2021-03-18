@@ -1,0 +1,7 @@
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
+/.idea
+/cmake-build-esp-wrover-kit
+/cmake-build-debug
+/cmake-build-esp32dev
